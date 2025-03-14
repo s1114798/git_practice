@@ -70,7 +70,9 @@ mindmap
 $$
 E=mc^2
 $$
+
 [Github](https://xianglibra.github.io/git_practice/)
+
 ![這是圖片](https://picsum.photos/200/300)
 
 > 這是一個引用
